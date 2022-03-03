@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&family=Roboto+Condensed:wght@300&family=Source+Serif+4:wght@300&family=Source+Serif+Pro&family=Trirong:wght@200&family=Yrsa:wght@300&display=swap');
+
+body{
+    min-width: 100vw;
+    min-height: 100vh;
+    margin: unset;
+    margin: unset;
+    align-items: center;
+    font-family: 'Source Serif 4', sans-serif;
+}
+
+
+
+
+
+
+.fundHeader{
+
+}
+
+.openCross{
+    margin: 0px;
+}
+
+@media(min-width:800px){
+    .openCross{
+        margin: 10px;
+    }
+}
+
+.crossTop{
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 5px 5px 1px rgb(0 0 0 / 7%);
+    margin: 0px;
+    padding-right: 20px;
+}
+
+.logoTop{
+   
+}
+
+.helpBar{
+    box-shadow: 0px 5px 5px 1px rgb(0 0 0 / 7%);
+}
+
+
+.firstImg{
+    display: flex;
+
+}
+
+
+
+@media(min-width:800px){
+    .firstImg{
+        display: flex;
+        padding: 30px;
+    }
+}
+
+.help{
+    font-style: italic;
+    font-size: 10px;
+    color: red;
+    text-align: right;
+}
+
+@media(min-width:800px){
+    .help{
+        font-style: italic;
+        font-size: 15px;
+        color: red;
+        text-align: right;
+        padding-right: 20px;
+    }
+}
+
+.donateBox{
+    background: rgba(220, 42, 34, 1);
+    text-align: center;
+    padding: 15px;
+    color: white;
+    height: 380px;
+    
+}
+
+
+@media(min-width:800px){
+    .donateBox{
+        background: rgba(220, 42, 34, 1);
+        text-align: center;
+        padding: 15px;
+        color: white;
+        height: 380px;
+        
+    }
+}
+
+.margins{
+    margin: 0px;
+}
+
+.victims{
+    text-align: center;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.donation{
+    text-align: justify;
+    font-size: 14px;
+    padding-bottom: 20px;
+}
+
+.three{
+    display: flex;
+}
+
+.bombShell{
+    padding: 10px;
+}
+
+
+
+@media(min-width:800px){
+    .siteCover{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+.siteCover{
+
+}
+
+
+
+
+
+@media(min-width:800px){
+    .textBox{
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+}
+
+
+.doButton{
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.clickMe{
+    border-radius: 10px;
+    background: white;
+    color: red;
+    font-size: 12px;
+    box-shadow:  1px 4px 4px 1px rgb(123 1 1 / 79%);
+}
+
+.button{
+    cursor: pointer;
+}
+
+.picture{
+    padding-left: 30px;
+}
+
+.scanText{
+    background: red;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
+.donor{
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 900;
+}
+
+.scanCode{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.scanBar{
+    padding-top: 30px;
+}
+
+.weight{
+    font-weight: 900;
+}
+.disaster{
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.picBox{
+    box-shadow: 2px 2px 2px 2px rgb(0 0 0 / 7%);
+    padding-bottom: 10px;
+}
+
+.copyText{
+    color: red;
+    font-size: 18px;
+}
+
+.cross{
+    color: red;
+}
